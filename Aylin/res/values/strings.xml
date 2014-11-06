@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aylin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="INV">Initial Investment</string>
+    <string name="Years">Years</string>
+    <string name="RATE">Interest Rate</string>
+    <string name="FV">Future Value</string>
+    <string name="Calculate">Calculate</string>
+
+
+</resources>
